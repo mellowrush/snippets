@@ -3,7 +3,7 @@
  * Returns true/false whether the value matches the regular expressions passed.
  *
  * @param {n/a} value - the value from the input can be anything.
- * @param {String} pattern - the regulare expression.
+ * @param {String} pattern - the regular expression.
  */
 function testPattern(value, pattern) {
     var regExp = pattern;
